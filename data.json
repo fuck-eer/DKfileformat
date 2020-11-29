@@ -1,0 +1,148 @@
+﻿{
+    "Demo_Key_Executives_List": [
+        {
+            "Executive Name": "Md Mahbub ur Rahman",
+            "Company": "HSBC Bangladesh",
+            "Designation": "CEO",
+            "Profile": "https://www.linkedin.com/in/md-mahbub-ur-rahman-8b7252157/",
+            "Executive Country": "Bangladesh",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Evgenia Fomina",
+            "Company": "Alfa-Bank",
+            "Designation": "Head ",
+            "Profile": "",
+            "Executive Country": "",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Samuel Mathew",
+            "Company": "Standard Chartered Bank",
+            "Designation": "MD, Global Head of Trade (Documentary)& Chief Product Owner - platform transformation",
+            "Profile": "https://www.linkedin.com/in/samuel-mathew-a041559/",
+            "Executive Country": "Singapore",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Keith Bergelt",
+            "Company": "Open Invention Network",
+            "Designation": "CEO",
+            "Profile": "https://www.linkedin.com/in/keith-bergelt-856b6b5/",
+            "Executive Country": "USA",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Luis Valdich",
+            "Company": "Citi Ventures",
+            "Designation": "Managing Director",
+            "Profile": "https://www.linkedin.com/in/luis-valdich-05266/",
+            "Executive Country": "USA",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Fulvio Conti",
+            "Company": "Almaviva",
+            "Designation": "Head of agriculture and environment",
+            "Profile": "https://www.linkedin.com/in/fulvio-conti-5513a31/",
+            "Executive Country": "Italy",
+            "Associated Consortia": "FNB008 - ROUGE project"
+        },
+        {
+            "Executive Name": "Yang Xiaoxiong",
+            "Company": "China SDIC International Trade Nanjing Company",
+            "Designation": "Chairman",
+            "Profile": "",
+            "Executive Country": "",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Ajay Sharma",
+            "Company": "HSBC",
+            "Designation": "Asia Pacific Regional Head of Global Trade and Receivables Finance",
+            "Profile": "https://www.linkedin.com/in/ajay-sharma-770a3881/",
+            "Executive Country": "Hong Kong",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Giovanni Selvaggi",
+            "Company": "Blood Oranges of Sicily IGP Consortium",
+            "Designation": "President",
+            "Profile": "",
+            "Executive Country": "",
+            "Associated Consortia": "FNB008 - ROUGE project"
+        },
+        {
+            "Executive Name": "Gregor Herzog",
+            "Company": "GS1",
+            "Designation": "CEO, Austria",
+            "Profile": "https://www.linkedin.com/in/gregor-herzog-171b9ba8/",
+            "Executive Country": "Austria",
+            "Associated Consortia": "TNL013 - EY Blockchain Logistics Consortium"
+        },
+        {
+            "Executive Name": "Michael Schramm",
+            "Company": "EY",
+            "Designation": "Head of EY Blockchain Competence Center",
+            "Profile": "https://www.linkedin.com/in/mischramm",
+            "Executive Country": "Austria",
+            "Associated Consortia": "TNL013 - EY Blockchain Logistics Consortium"
+        },
+        {
+            "Executive Name": "Eric Henry",
+            "Company": "BNP Paribas Corporate and Institutional Banking",
+            "Designation": "CIB - CTTS - Head of Innovation - Trade Finance",
+            "Profile": "https://www.linkedin.com/in/eric-henry-6837a47b/",
+            "Executive Country": "France",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Hitendra Dave",
+            "Company": "HSBC",
+            "Designation": "Head-Global Banking and Markets",
+            "Profile": "",
+            "Executive Country": "",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Vivian Chan",
+            "Company": "CryptoBLK",
+            "Designation": "Chief Commercial Officer",
+            "Profile": "",
+            "Executive Country": "",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "James Bidwell",
+            "Company": "Royal Bank of Scotland",
+            "Designation": "Head of Trade Services Product Management",
+            "Profile": "https://www.linkedin.com/in/james-bidwell-6b28a816/",
+            "Executive Country": "UK",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Dora Matheidesz",
+            "Company": "HSBC",
+            "Designation": "Senior Innovation Manager for Blockchain",
+            "Profile": "https://www.linkedin.com/in/doramatheidesz/",
+            "Executive Country": "USA",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Chris Sunderman",
+            "Company": "ING",
+            "Designation": "Blockchain initiative lead for trade finance services",
+            "Profile": "https://www.linkedin.com/in/chrissunderman/",
+            "Executive Country": "Netherlands",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        },
+        {
+            "Executive Name": "Robert Barnes",
+            "Company": "TradeIX",
+            "Designation": "CEO & Co-Founder",
+            "Profile": "https://www.linkedin.com/in/robert-barnes-b6954b141/",
+            "Executive Country": "Spain",
+            "Associated Consortia": "BFS026 - Contour (Formerly Voltron)"
+        }
+    ]
+}
